@@ -31,7 +31,7 @@ do
   {
     "Comment": "Testing creating a record set"
     ,"Changes": [{
-      "Action"              : "CREATE"
+      "Action"              : ""
       ,"ResourceRecordSet"  : {
         "Name"              : "'$instance'.'$DOMAIN_NAME'"
         ,"Type"             : "A"
